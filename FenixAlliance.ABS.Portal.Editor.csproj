@@ -13,7 +13,6 @@
     <RepositoryBranch>main</RepositoryBranch>
     <TargetFramework>net5.0</TargetFramework>
     <NoDefaultExcludes>true</NoDefaultExcludes>
-    <DevelopmentDependency>false</DevelopmentDependency>
     <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <DevelopmentDependency>false</DevelopmentDependency>
@@ -23,7 +22,7 @@
     <PackageTags>Alliance Business Suite; Fenix Alliance, ABS, ABM; ABP; ACL; APS; ACS;</PackageTags>
     <PackageIconUrl>https://fenixalliance.com.co/images/FenixAlliance/AppIcon/apple-icon-120x120.png</PackageIconUrl>
     <PackageReleaseNotes>Standarize at v1.1.1</PackageReleaseNotes>
-    <RepositoryUrl>https://github.com/FenixAlliance/ABS.Portal</RepositoryUrl>
+    <RepositoryUrl>https://github.com/FenixAlliance/ABS.Portal.Editor</RepositoryUrl>
     <Description>Application Component for the Alliance Business Suite.</Description>
     <StaticWebAssetBasePath Condition="$(StaticWebAssetBasePath) == ''">/editor</StaticWebAssetBasePath>
   </PropertyGroup>
